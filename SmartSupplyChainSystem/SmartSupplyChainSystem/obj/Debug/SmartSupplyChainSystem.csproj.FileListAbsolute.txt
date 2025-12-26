@@ -1,0 +1,34 @@
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.csproj.AssemblyReference.cache
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.ColdStorageForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.LoadBalancingForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.MainForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.OrderProcessingForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.ProductTrackingForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.TruckRoutingForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.WarehouseNavigationForm.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Properties.Resources.resources
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.csproj.GenerateResource.cache
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.csproj.CoreCompileInputs.cache
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\bin\Debug\SmartSupplyChainSystem.exe.config
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\bin\Debug\SmartSupplyChainSystem.exe
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\bin\Debug\SmartSupplyChainSystem.pdb
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.exe
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.pdb
+C:\Users\Saad Ch\OneDrive\Desktop\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.ProductManagerForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\bin\Debug\SmartSupplyChainSystem.exe.config
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\bin\Debug\SmartSupplyChainSystem.exe
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\bin\Debug\SmartSupplyChainSystem.pdb
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.ColdStorageForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.LoadBalancingForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.MainForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.OrderProcessingForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.ProductManagerForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.ProductTrackingForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.TruckRoutingForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Forms.WarehouseNavigationForm.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.Properties.Resources.resources
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.exe
+C:\Users\User\Desktop\SmartSupplyChainSystem\SmartSupplyChainSystem\obj\Debug\SmartSupplyChainSystem.pdb

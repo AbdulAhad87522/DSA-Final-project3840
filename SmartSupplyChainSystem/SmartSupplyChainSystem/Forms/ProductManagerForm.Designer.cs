@@ -62,14 +62,14 @@ namespace SmartSupplyChainSystem.Forms
             this.lblTitle.ForeColor = System.Drawing.Color.White;
             this.lblTitle.Location = new System.Drawing.Point(0, 0);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(2200, 75);
+            this.lblTitle.Size = new System.Drawing.Size(1380, 75);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "📦 Product Manager - Order Tracking & Dispatch";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // grpOrders
             // 
-            this.grpOrders.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            this.grpOrders.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.grpOrders.BackColor = System.Drawing.Color.White;
             this.grpOrders.Controls.Add(this.lblInstructions);
@@ -96,21 +96,21 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // lstOrders
             // 
-            this.lstOrders.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.lstOrders.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lstOrders.CheckOnClick = true;
             this.lstOrders.Font = new System.Drawing.Font("Consolas", 9F);
             this.lstOrders.FormattingEnabled = true;
             this.lstOrders.Location = new System.Drawing.Point(15, 65);
             this.lstOrders.Name = "lstOrders";
-            this.lstOrders.Size = new System.Drawing.Size(320, 360);
+            this.lstOrders.Size = new System.Drawing.Size(320, 342);
             this.lstOrders.TabIndex = 0;
             this.lstOrders.SelectedIndexChanged += new System.EventHandler(this.lstOrders_SelectedIndexChanged);
             // 
             // lblTotalOrders
             // 
-            this.lblTotalOrders.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
+            this.lblTotalOrders.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lblTotalOrders.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
             this.lblTotalOrders.Location = new System.Drawing.Point(15, 435);
@@ -122,8 +122,8 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // grpOrderDetails
             // 
-            this.grpOrderDetails.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.grpOrderDetails.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.grpOrderDetails.BackColor = System.Drawing.Color.White;
             this.grpOrderDetails.Controls.Add(this.txtOrderDetails);
@@ -137,8 +137,8 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // txtOrderDetails
             // 
-            this.txtOrderDetails.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.txtOrderDetails.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.txtOrderDetails.Font = new System.Drawing.Font("Consolas", 10F);
             this.txtOrderDetails.Location = new System.Drawing.Point(15, 40);
@@ -152,7 +152,7 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // grpTracking
             // 
-            this.grpTracking.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
+            this.grpTracking.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.grpTracking.BackColor = System.Drawing.Color.White;
             this.grpTracking.Controls.Add(this.lstTrackingLog);
@@ -167,8 +167,8 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // lstTrackingLog
             // 
-            this.lstTrackingLog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.lstTrackingLog.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lstTrackingLog.Font = new System.Drawing.Font("Consolas", 9F);
             this.lstTrackingLog.FormattingEnabled = true;
@@ -180,7 +180,7 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // btnTrackProduct
             // 
-            this.btnTrackProduct.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left)
+            this.btnTrackProduct.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.btnTrackProduct.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.btnTrackProduct.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -196,7 +196,7 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // grpTruckAssignment
             // 
-            this.grpTruckAssignment.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)
+            this.grpTruckAssignment.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.grpTruckAssignment.BackColor = System.Drawing.Color.White;
             this.grpTruckAssignment.Controls.Add(this.lblSelectTruck);
@@ -274,10 +274,8 @@ namespace SmartSupplyChainSystem.Forms
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.AutoSize = false;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(240)))), ((int)(((byte)(241)))));
-            this.MinimumSize = new System.Drawing.Size(1400, 780);
             this.ClientSize = new System.Drawing.Size(1380, 740);
             this.Controls.Add(this.lblStatus);
             this.Controls.Add(this.btnRefresh);
@@ -286,8 +284,7 @@ namespace SmartSupplyChainSystem.Forms
             this.Controls.Add(this.grpOrderDetails);
             this.Controls.Add(this.grpOrders);
             this.Controls.Add(this.lblTitle);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Sizable;
-            this.MaximizeBox = true;
+            this.MinimumSize = new System.Drawing.Size(1400, 780);
             this.Name = "ProductManagerForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Product Manager - Order Tracking & Dispatch";

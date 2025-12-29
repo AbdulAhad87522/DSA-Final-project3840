@@ -326,6 +326,7 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // panelRight
             // 
+            this.panelRight.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.panelRight.BackColor = System.Drawing.Color.White;
             this.panelRight.Controls.Add(this.grpProductInfo);
             this.panelRight.Controls.Add(this.grpActions);
@@ -387,7 +388,6 @@ namespace SmartSupplyChainSystem.Forms
             this.Controls.Add(this.lblTitle);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.MaximizeBox = true;
             this.Name = "ProductTrackingForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Product Tracking";

@@ -104,7 +104,7 @@ namespace SmartSupplyChainSystem.Forms
             this.grpDestinations.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.grpDestinations.Name = "grpDestinations";
             this.grpDestinations.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.grpDestinations.Size = new System.Drawing.Size(315, 500);
+            this.grpDestinations.Size = new System.Drawing.Size(315, 819);
             this.grpDestinations.TabIndex = 4;
             this.grpDestinations.TabStop = false;
             this.grpDestinations.Text = "🎯 Destinations";
@@ -129,7 +129,7 @@ namespace SmartSupplyChainSystem.Forms
             this.lstDestinations.Location = new System.Drawing.Point(17, 70);
             this.lstDestinations.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lstDestinations.Name = "lstDestinations";
-            this.lstDestinations.Size = new System.Drawing.Size(281, 368);
+            this.lstDestinations.Size = new System.Drawing.Size(281, 704);
             this.lstDestinations.TabIndex = 0;
             this.lstDestinations.SelectedIndexChanged += new System.EventHandler(this.lstDestinations_SelectedIndexChanged);
             // 
@@ -142,7 +142,7 @@ namespace SmartSupplyChainSystem.Forms
             this.grpRouteDetails.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.grpRouteDetails.Name = "grpRouteDetails";
             this.grpRouteDetails.Padding = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.grpRouteDetails.Size = new System.Drawing.Size(292, 500);
+            this.grpRouteDetails.Size = new System.Drawing.Size(292, 811);
             this.grpRouteDetails.TabIndex = 5;
             this.grpRouteDetails.TabStop = false;
             this.grpRouteDetails.Text = "📍 Optimized Route";
@@ -156,7 +156,7 @@ namespace SmartSupplyChainSystem.Forms
             this.lstOptimizedRoute.Location = new System.Drawing.Point(17, 44);
             this.lstOptimizedRoute.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lstOptimizedRoute.Name = "lstOptimizedRoute";
-            this.lstOptimizedRoute.Size = new System.Drawing.Size(258, 422);
+            this.lstOptimizedRoute.Size = new System.Drawing.Size(258, 708);
             this.lstOptimizedRoute.TabIndex = 0;
             this.lstOptimizedRoute.SelectedIndexChanged += new System.EventHandler(this.lstOptimizedRoute_SelectedIndexChanged);
             // 
@@ -166,7 +166,7 @@ namespace SmartSupplyChainSystem.Forms
             this.btnOptimizeRoute.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOptimizeRoute.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
             this.btnOptimizeRoute.ForeColor = System.Drawing.Color.White;
-            this.btnOptimizeRoute.Location = new System.Drawing.Point(22, 688);
+            this.btnOptimizeRoute.Location = new System.Drawing.Point(12, 1019);
             this.btnOptimizeRoute.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnOptimizeRoute.Name = "btnOptimizeRoute";
             this.btnOptimizeRoute.Size = new System.Drawing.Size(315, 62);
@@ -181,7 +181,7 @@ namespace SmartSupplyChainSystem.Forms
             this.btnResetRoute.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResetRoute.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
             this.btnResetRoute.ForeColor = System.Drawing.Color.White;
-            this.btnResetRoute.Location = new System.Drawing.Point(1035, 688);
+            this.btnResetRoute.Location = new System.Drawing.Point(1070, 1007);
             this.btnResetRoute.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnResetRoute.Name = "btnResetRoute";
             this.btnResetRoute.Size = new System.Drawing.Size(292, 62);
@@ -197,14 +197,14 @@ namespace SmartSupplyChainSystem.Forms
             this.panelVisualization.Location = new System.Drawing.Point(360, 162);
             this.panelVisualization.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelVisualization.Name = "panelVisualization";
-            this.panelVisualization.Size = new System.Drawing.Size(1118, 500);
+            this.panelVisualization.Size = new System.Drawing.Size(1118, 819);
             this.panelVisualization.TabIndex = 8;
             this.panelVisualization.Paint += new System.Windows.Forms.PaintEventHandler(this.panelVisualization_Paint);
             // 
             // lblRouteInfo
             // 
             this.lblRouteInfo.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
-            this.lblRouteInfo.Location = new System.Drawing.Point(360, 700);
+            this.lblRouteInfo.Location = new System.Drawing.Point(355, 1031);
             this.lblRouteInfo.Name = "lblRouteInfo";
             this.lblRouteInfo.Size = new System.Drawing.Size(652, 38);
             this.lblRouteInfo.TabIndex = 9;
@@ -217,7 +217,7 @@ namespace SmartSupplyChainSystem.Forms
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(240)))), ((int)(((byte)(241)))));
-            this.ClientSize = new System.Drawing.Size(1807, 775);
+            this.ClientSize = new System.Drawing.Size(1807, 1094);
             this.Controls.Add(this.lblRouteInfo);
             this.Controls.Add(this.panelVisualization);
             this.Controls.Add(this.btnResetRoute);

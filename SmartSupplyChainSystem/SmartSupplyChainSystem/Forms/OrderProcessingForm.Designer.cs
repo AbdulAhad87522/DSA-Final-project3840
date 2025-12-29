@@ -84,7 +84,7 @@ namespace SmartSupplyChainSystem.Forms
             this.lblTitle.ForeColor = System.Drawing.Color.White;
             this.lblTitle.Location = new System.Drawing.Point(0, 0);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(1575, 75);
+            this.lblTitle.Size = new System.Drawing.Size(1815, 75);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "📋 Order Processing (Queue + Priority Queue)";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -254,9 +254,9 @@ namespace SmartSupplyChainSystem.Forms
             this.grpNormalQueue.Controls.Add(this.lblNormalCount);
             this.grpNormalQueue.Controls.Add(this.btnProcessNormal);
             this.grpNormalQueue.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
-            this.grpNormalQueue.Location = new System.Drawing.Point(22, 400);
+            this.grpNormalQueue.Location = new System.Drawing.Point(8, 414);
             this.grpNormalQueue.Name = "grpNormalQueue";
-            this.grpNormalQueue.Size = new System.Drawing.Size(484, 500);
+            this.grpNormalQueue.Size = new System.Drawing.Size(561, 500);
             this.grpNormalQueue.TabIndex = 2;
             this.grpNormalQueue.TabStop = false;
             this.grpNormalQueue.Text = "📦 Normal Queue (FIFO)";
@@ -269,7 +269,7 @@ namespace SmartSupplyChainSystem.Forms
             this.lstNormalQueue.ItemHeight = 22;
             this.lstNormalQueue.Location = new System.Drawing.Point(22, 50);
             this.lstNormalQueue.Name = "lstNormalQueue";
-            this.lstNormalQueue.Size = new System.Drawing.Size(438, 312);
+            this.lstNormalQueue.Size = new System.Drawing.Size(506, 312);
             this.lstNormalQueue.TabIndex = 0;
             this.lstNormalQueue.SelectedIndexChanged += new System.EventHandler(this.lstNormalQueue_SelectedIndexChanged);
             // 
@@ -305,9 +305,9 @@ namespace SmartSupplyChainSystem.Forms
             this.grpPriorityQueue.Controls.Add(this.lblPriorityCount);
             this.grpPriorityQueue.Controls.Add(this.btnProcessPriority);
             this.grpPriorityQueue.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
-            this.grpPriorityQueue.Location = new System.Drawing.Point(529, 400);
+            this.grpPriorityQueue.Location = new System.Drawing.Point(633, 414);
             this.grpPriorityQueue.Name = "grpPriorityQueue";
-            this.grpPriorityQueue.Size = new System.Drawing.Size(484, 500);
+            this.grpPriorityQueue.Size = new System.Drawing.Size(564, 500);
             this.grpPriorityQueue.TabIndex = 3;
             this.grpPriorityQueue.TabStop = false;
             this.grpPriorityQueue.Text = "🚨 Priority Queue";
@@ -320,7 +320,7 @@ namespace SmartSupplyChainSystem.Forms
             this.lstPriorityQueue.ItemHeight = 22;
             this.lstPriorityQueue.Location = new System.Drawing.Point(22, 50);
             this.lstPriorityQueue.Name = "lstPriorityQueue";
-            this.lstPriorityQueue.Size = new System.Drawing.Size(438, 312);
+            this.lstPriorityQueue.Size = new System.Drawing.Size(509, 312);
             this.lstPriorityQueue.TabIndex = 0;
             this.lstPriorityQueue.SelectedIndexChanged += new System.EventHandler(this.lstPriorityQueue_SelectedIndexChanged);
             // 
@@ -355,9 +355,9 @@ namespace SmartSupplyChainSystem.Forms
             this.grpProcessed.Controls.Add(this.lstProcessed);
             this.grpProcessed.Controls.Add(this.lblProcessedCount);
             this.grpProcessed.Font = new System.Drawing.Font("Segoe UI", 11F, System.Drawing.FontStyle.Bold);
-            this.grpProcessed.Location = new System.Drawing.Point(1035, 400);
+            this.grpProcessed.Location = new System.Drawing.Point(1218, 414);
             this.grpProcessed.Name = "grpProcessed";
-            this.grpProcessed.Size = new System.Drawing.Size(518, 500);
+            this.grpProcessed.Size = new System.Drawing.Size(564, 500);
             this.grpProcessed.TabIndex = 4;
             this.grpProcessed.TabStop = false;
             this.grpProcessed.Text = "✅ Processed Orders";
@@ -370,14 +370,14 @@ namespace SmartSupplyChainSystem.Forms
             this.lstProcessed.ItemHeight = 22;
             this.lstProcessed.Location = new System.Drawing.Point(22, 50);
             this.lstProcessed.Name = "lstProcessed";
-            this.lstProcessed.Size = new System.Drawing.Size(472, 378);
+            this.lstProcessed.Size = new System.Drawing.Size(521, 312);
             this.lstProcessed.TabIndex = 0;
             this.lstProcessed.SelectedIndexChanged += new System.EventHandler(this.lstProcessed_SelectedIndexChanged);
             // 
             // lblProcessedCount
             // 
             this.lblProcessedCount.Font = new System.Drawing.Font("Segoe UI", 10F, System.Drawing.FontStyle.Bold);
-            this.lblProcessedCount.Location = new System.Drawing.Point(22, 450);
+            this.lblProcessedCount.Location = new System.Drawing.Point(6, 388);
             this.lblProcessedCount.Name = "lblProcessedCount";
             this.lblProcessedCount.Size = new System.Drawing.Size(472, 31);
             this.lblProcessedCount.TabIndex = 1;
@@ -415,7 +415,7 @@ namespace SmartSupplyChainSystem.Forms
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(240)))), ((int)(((byte)(241)))));
-            this.ClientSize = new System.Drawing.Size(1575, 990);
+            this.ClientSize = new System.Drawing.Size(1815, 990);
             this.Controls.Add(this.lblLastProcessed);
             this.Controls.Add(this.btnClearAll);
             this.Controls.Add(this.grpProcessed);
@@ -424,7 +424,6 @@ namespace SmartSupplyChainSystem.Forms
             this.Controls.Add(this.grpOrderInput);
             this.Controls.Add(this.lblTitle);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
-            this.MaximizeBox = true;
             this.Name = "OrderProcessingForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Order Processing";

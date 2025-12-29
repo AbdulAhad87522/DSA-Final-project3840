@@ -47,7 +47,7 @@ namespace SmartSupplyChainSystem.Forms
             this.lblTitle.ForeColor = System.Drawing.Color.White;
             this.lblTitle.Location = new System.Drawing.Point(0, 0);
             this.lblTitle.Name = "lblTitle";
-            this.lblTitle.Size = new System.Drawing.Size(1238, 75);
+            this.lblTitle.Size = new System.Drawing.Size(1862, 75);
             this.lblTitle.TabIndex = 0;
             this.lblTitle.Text = "📍 Warehouse Navigation (BFS + Dijkstra)";
             this.lblTitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -115,10 +115,10 @@ namespace SmartSupplyChainSystem.Forms
             this.lstPath.Font = new System.Drawing.Font("Consolas", 10F);
             this.lstPath.FormattingEnabled = true;
             this.lstPath.ItemHeight = 23;
-            this.lstPath.Location = new System.Drawing.Point(889, 250);
+            this.lstPath.Location = new System.Drawing.Point(1515, 250);
             this.lstPath.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lstPath.Name = "lstPath";
-            this.lstPath.Size = new System.Drawing.Size(326, 487);
+            this.lstPath.Size = new System.Drawing.Size(326, 717);
             this.lstPath.TabIndex = 3;
             // 
             // panelVisualization
@@ -128,7 +128,7 @@ namespace SmartSupplyChainSystem.Forms
             this.panelVisualization.Location = new System.Drawing.Point(22, 250);
             this.panelVisualization.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelVisualization.Name = "panelVisualization";
-            this.panelVisualization.Size = new System.Drawing.Size(844, 500);
+            this.panelVisualization.Size = new System.Drawing.Size(1396, 717);
             this.panelVisualization.TabIndex = 2;
             this.panelVisualization.Paint += new System.Windows.Forms.PaintEventHandler(this.panelVisualization_Paint);
             // 
@@ -156,7 +156,7 @@ namespace SmartSupplyChainSystem.Forms
             this.panelControls.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelControls.Name = "panelControls";
             this.panelControls.Padding = new System.Windows.Forms.Padding(22, 25, 22, 25);
-            this.panelControls.Size = new System.Drawing.Size(1238, 150);
+            this.panelControls.Size = new System.Drawing.Size(1862, 150);
             this.panelControls.TabIndex = 1;
             // 
             // WarehouseNavigationForm
@@ -164,14 +164,13 @@ namespace SmartSupplyChainSystem.Forms
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(240)))), ((int)(((byte)(241)))));
-            this.ClientSize = new System.Drawing.Size(1238, 775);
+            this.ClientSize = new System.Drawing.Size(1862, 973);
             this.Controls.Add(this.lstPath);
             this.Controls.Add(this.panelVisualization);
             this.Controls.Add(this.panelControls);
             this.Controls.Add(this.lblTitle);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.MaximizeBox = true;
             this.Name = "WarehouseNavigationForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Warehouse Navigation";

@@ -42,7 +42,7 @@ namespace SmartSupplyChainSystem.Forms
             // 
             // lblTitle
             // 
-            this.lblTitle.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.lblTitle.Dock = System.Windows.Forms.DockStyle.Left;
             this.lblTitle.Font = new System.Drawing.Font("Segoe UI", 24F, System.Drawing.FontStyle.Bold);
             this.lblTitle.ForeColor = System.Drawing.Color.White;
             this.lblTitle.Location = new System.Drawing.Point(0, 0);
@@ -73,7 +73,7 @@ namespace SmartSupplyChainSystem.Forms
             this.btnTruckRouting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnTruckRouting.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnTruckRouting.ForeColor = System.Drawing.Color.White;
-            this.btnTruckRouting.Location = new System.Drawing.Point(540, 30);
+            this.btnTruckRouting.Location = new System.Drawing.Point(60, 701);
             this.btnTruckRouting.Name = "btnTruckRouting";
             this.btnTruckRouting.Size = new System.Drawing.Size(450, 90);
             this.btnTruckRouting.TabIndex = 1;
@@ -101,7 +101,7 @@ namespace SmartSupplyChainSystem.Forms
             this.btnOrderProcessing.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnOrderProcessing.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnOrderProcessing.ForeColor = System.Drawing.Color.White;
-            this.btnOrderProcessing.Location = new System.Drawing.Point(540, 140);
+            this.btnOrderProcessing.Location = new System.Drawing.Point(60, 363);
             this.btnOrderProcessing.Name = "btnOrderProcessing";
             this.btnOrderProcessing.Size = new System.Drawing.Size(450, 90);
             this.btnOrderProcessing.TabIndex = 3;
@@ -129,7 +129,7 @@ namespace SmartSupplyChainSystem.Forms
             this.btnColdStorage.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnColdStorage.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
             this.btnColdStorage.ForeColor = System.Drawing.Color.White;
-            this.btnColdStorage.Location = new System.Drawing.Point(540, 250);
+            this.btnColdStorage.Location = new System.Drawing.Point(60, 473);
             this.btnColdStorage.Name = "btnColdStorage";
             this.btnColdStorage.Size = new System.Drawing.Size(450, 90);
             this.btnColdStorage.TabIndex = 5;
@@ -143,9 +143,9 @@ namespace SmartSupplyChainSystem.Forms
             this.btnProductManager.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnProductManager.Font = new System.Drawing.Font("Segoe UI", 13F, System.Drawing.FontStyle.Bold);
             this.btnProductManager.ForeColor = System.Drawing.Color.White;
-            this.btnProductManager.Location = new System.Drawing.Point(60, 360);
+            this.btnProductManager.Location = new System.Drawing.Point(60, 586);
             this.btnProductManager.Name = "btnProductManager";
-            this.btnProductManager.Size = new System.Drawing.Size(930, 90);
+            this.btnProductManager.Size = new System.Drawing.Size(450, 90);
             this.btnProductManager.TabIndex = 6;
             this.btnProductManager.Text = "🎯 Product Manager (Track & Dispatch Orders)";
             this.btnProductManager.UseVisualStyleBackColor = false;
@@ -158,7 +158,7 @@ namespace SmartSupplyChainSystem.Forms
             this.panelHeader.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelHeader.Location = new System.Drawing.Point(0, 0);
             this.panelHeader.Name = "panelHeader";
-            this.panelHeader.Size = new System.Drawing.Size(1050, 125);
+            this.panelHeader.Size = new System.Drawing.Size(1861, 125);
             this.panelHeader.TabIndex = 0;
             // 
             // panelButtons
@@ -174,7 +174,7 @@ namespace SmartSupplyChainSystem.Forms
             this.panelButtons.Location = new System.Drawing.Point(0, 125);
             this.panelButtons.Name = "panelButtons";
             this.panelButtons.Padding = new System.Windows.Forms.Padding(50);
-            this.panelButtons.Size = new System.Drawing.Size(1050, 500);
+            this.panelButtons.Size = new System.Drawing.Size(1861, 900);
             this.panelButtons.TabIndex = 1;
             this.panelButtons.Paint += new System.Windows.Forms.PaintEventHandler(this.panelButtons_Paint);
             // 
@@ -183,11 +183,10 @@ namespace SmartSupplyChainSystem.Forms
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(236)))), ((int)(((byte)(240)))), ((int)(((byte)(241)))));
-            this.ClientSize = new System.Drawing.Size(1050, 625);
+            this.ClientSize = new System.Drawing.Size(1861, 1025);
             this.Controls.Add(this.panelButtons);
             this.Controls.Add(this.panelHeader);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = true;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Smart Supply Chain System";

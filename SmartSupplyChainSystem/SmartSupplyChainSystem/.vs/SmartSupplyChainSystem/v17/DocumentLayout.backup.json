@@ -3,6 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\stackimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\stackimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\queueimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\queueimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\graphnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\graphnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|c:\\users\\user\\desktop\\dsa-final-project3840\\smartsupplychainsystem\\smartsupplychainsystem\\services\\pathfindingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\pathfindingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\services\\routeoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\routeoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -11,7 +51,7 @@
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\loadbalancingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|c:\\users\\user\\desktop\\dsa-final-project3840\\smartsupplychainsystem\\smartsupplychainsystem\\forms\\orderprocessingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\orderprocessingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\orderprocessingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -33,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\warehousenavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\warehousenavigationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,20 +135,8 @@
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\temperaturemonitoringservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\services\\routeoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\routeoptimizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\services\\pathfindingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\pathfindingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\services\\ordermanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\ordermanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:services\\inventoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,26 +151,6 @@
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\stackimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\stackimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\queueimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\queueimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\datastructures\\graphnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:datastructures\\graphnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -157,10 +161,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\loadbalancingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\loadbalancingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0D509C2-BDF7-4C2D-B7B8-1ACBA02E1C53}|SmartSupplyChainSystem.csproj|solutionrelative:forms\\coldstorageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -170,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -190,7 +190,165 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PathfindingService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\PathfindingService.cs",
+              "RelativeDocumentMoniker": "Services\\PathfindingService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\PathfindingService.cs",
+              "RelativeToolTip": "Services\\PathfindingService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAawC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:17:12.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GraphNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\GraphNode.cs",
+              "RelativeDocumentMoniker": "DataStructures\\GraphNode.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\GraphNode.cs",
+              "RelativeToolTip": "DataStructures\\GraphNode.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:13:59.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "DataStructures\\PriorityQueue.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\PriorityQueue.cs",
+              "RelativeToolTip": "DataStructures\\PriorityQueue.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:14:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QueueImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\QueueImplementation.cs",
+              "RelativeDocumentMoniker": "DataStructures\\QueueImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\QueueImplementation.cs",
+              "RelativeToolTip": "DataStructures\\QueueImplementation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:14:23.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\StackImplementation.cs",
+              "RelativeDocumentMoniker": "DataStructures\\StackImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\StackImplementation.cs",
+              "RelativeToolTip": "DataStructures\\StackImplementation.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:14:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\TreeNode.cs",
+              "RelativeDocumentMoniker": "DataStructures\\TreeNode.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\TreeNode.cs",
+              "RelativeToolTip": "DataStructures\\TreeNode.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:13:45.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteOptimizationService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\RouteOptimizationService.cs",
+              "RelativeDocumentMoniker": "Services\\RouteOptimizationService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\RouteOptimizationService.cs",
+              "RelativeToolTip": "Services\\RouteOptimizationService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswDkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:17:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\InventoryService.cs",
+              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\InventoryService.cs",
+              "RelativeToolTip": "Services\\InventoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:17:40.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColdStorageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ColdStorageForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ColdStorageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:13:29.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColdStorageForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ColdStorageForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs",
+              "RelativeToolTip": "Forms\\ColdStorageForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T07:28:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T16:39:56.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoadBalancingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\LoadBalancingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\LoadBalancingForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\LoadBalancingForm.cs [Design]",
+              "RelativeToolTip": "Forms\\LoadBalancingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:13:16.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderProcessingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\OrderProcessingForm.cs",
+              "RelativeDocumentMoniker": "Forms\\OrderProcessingForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\OrderProcessingForm.cs [Design]",
+              "RelativeToolTip": "Forms\\OrderProcessingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T21:12:55.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductTrackingForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ProductTrackingForm.cs",
               "RelativeDocumentMoniker": "Forms\\ProductTrackingForm.cs",
@@ -201,43 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderProcessingForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\OrderProcessingForm.cs",
-              "RelativeDocumentMoniker": "Forms\\OrderProcessingForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\OrderProcessingForm.cs [Design]",
-              "RelativeToolTip": "Forms\\OrderProcessingForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:12:55.765Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoadBalancingForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\LoadBalancingForm.cs",
-              "RelativeDocumentMoniker": "Forms\\LoadBalancingForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\LoadBalancingForm.cs [Design]",
-              "RelativeToolTip": "Forms\\LoadBalancingForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:13:16.183Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs",
-              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs [Design]*",
-              "RelativeToolTip": "Forms\\MainForm.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-21T16:39:56.435Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "TruckRoutingForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\TruckRoutingForm.cs",
               "RelativeDocumentMoniker": "Forms\\TruckRoutingForm.cs",
@@ -248,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "ProductManagerForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ProductManagerForm.cs",
               "RelativeDocumentMoniker": "Forms\\ProductManagerForm.cs",
@@ -259,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "OrderProcessingForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\OrderProcessingForm.cs",
               "RelativeDocumentMoniker": "Forms\\OrderProcessingForm.cs",
@@ -271,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "WarehouseNavigationForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\WarehouseNavigationForm.cs",
               "RelativeDocumentMoniker": "Forms\\WarehouseNavigationForm.cs",
@@ -282,18 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ColdStorageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs",
-              "RelativeDocumentMoniker": "Forms\\ColdStorageForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:13:29.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -305,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "WarehouseNavigationForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\WarehouseNavigationForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\WarehouseNavigationForm.Designer.cs",
@@ -317,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "TruckRoutingForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\TruckRoutingForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\TruckRoutingForm.Designer.cs",
@@ -329,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "ProductTrackingForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ProductTrackingForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\ProductTrackingForm.Designer.cs",
@@ -341,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 21,
               "Title": "ProductManagerForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ProductManagerForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\ProductManagerForm.Designer.cs",
@@ -353,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "OrderProcessingForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\OrderProcessingForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\OrderProcessingForm.Designer.cs",
@@ -365,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "ColdStorageForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\ColdStorageForm.Designer.cs",
@@ -377,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "LoadBalancingForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\LoadBalancingForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\LoadBalancingForm.Designer.cs",
@@ -385,25 +496,23 @@
               "RelativeToolTip": "Forms\\LoadBalancingForm.Designer.cs",
               "ViewState": "AgIAAEMBAAAAAAAAAAAAAGIBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:46:15.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T07:46:15.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.Designer.cs*",
-              "RelativeToolTip": "Forms\\MainForm.Designer.cs*",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "Forms\\MainForm.Designer.cs",
               "ViewState": "AgIAAKQAAAAAAAAAAAAwwL0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:30:47.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T07:30:47.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "Truck.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Models\\Truck.cs",
               "RelativeDocumentMoniker": "Models\\Truck.cs",
@@ -415,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "ProductManagerForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ProductManagerForm.cs",
               "RelativeDocumentMoniker": "Forms\\ProductManagerForm.cs",
@@ -427,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "ProductTrackingForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ProductTrackingForm.cs",
               "RelativeDocumentMoniker": "Forms\\ProductTrackingForm.cs",
@@ -439,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "TruckRoutingForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\TruckRoutingForm.cs",
               "RelativeDocumentMoniker": "Forms\\TruckRoutingForm.cs",
@@ -451,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "TruckServiceManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\TruckServiceManager.cs",
               "RelativeDocumentMoniker": "Services\\TruckServiceManager.cs",
@@ -463,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "TemperatureMonitoringService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\TemperatureMonitoringService.cs",
               "RelativeDocumentMoniker": "Services\\TemperatureMonitoringService.cs",
@@ -475,31 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "RouteOptimizationService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\RouteOptimizationService.cs",
-              "RelativeDocumentMoniker": "Services\\RouteOptimizationService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\RouteOptimizationService.cs",
-              "RelativeToolTip": "Services\\RouteOptimizationService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAswD8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:17:24.834Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "PathfindingService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\PathfindingService.cs",
-              "RelativeDocumentMoniker": "Services\\PathfindingService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\PathfindingService.cs",
-              "RelativeToolTip": "Services\\PathfindingService.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAswGYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:17:12.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "OrderManagerService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\OrderManagerService.cs",
               "RelativeDocumentMoniker": "Services\\OrderManagerService.cs",
@@ -511,19 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "InventoryService.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\InventoryService.cs",
-              "RelativeDocumentMoniker": "Services\\InventoryService.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Services\\InventoryService.cs",
-              "RelativeToolTip": "Services\\InventoryService.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAkwKYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:17:40.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Warehouse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Models\\Warehouse.cs",
               "RelativeDocumentMoniker": "Models\\Warehouse.cs",
@@ -535,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -547,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -559,80 +632,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "TreeNode.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\TreeNode.cs",
-              "RelativeDocumentMoniker": "DataStructures\\TreeNode.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\TreeNode.cs",
-              "RelativeToolTip": "DataStructures\\TreeNode.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAkwEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:13:45.093Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "StackImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\StackImplementation.cs",
-              "RelativeDocumentMoniker": "DataStructures\\StackImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\StackImplementation.cs",
-              "RelativeToolTip": "DataStructures\\StackImplementation.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA3wC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:14:11.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "QueueImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\QueueImplementation.cs",
-              "RelativeDocumentMoniker": "DataStructures\\QueueImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\QueueImplementation.cs",
-              "RelativeToolTip": "DataStructures\\QueueImplementation.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:14:23.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "PriorityQueue.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\PriorityQueue.cs",
-              "RelativeDocumentMoniker": "DataStructures\\PriorityQueue.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\PriorityQueue.cs",
-              "RelativeToolTip": "DataStructures\\PriorityQueue.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAA3wC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:14:35.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "GraphNode.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\GraphNode.cs",
-              "RelativeDocumentMoniker": "DataStructures\\GraphNode.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\DataStructures\\GraphNode.cs",
-              "RelativeToolTip": "DataStructures\\GraphNode.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T21:13:59.753Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs",
               "RelativeDocumentMoniker": "Forms\\MainForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs*",
-              "RelativeToolTip": "Forms\\MainForm.cs*",
+              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Forms\\MainForm.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAYwEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:30:31.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T07:30:31.846Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "WarehouseNavigationForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\WarehouseNavigationForm.cs",
               "RelativeDocumentMoniker": "Forms\\WarehouseNavigationForm.cs",
@@ -644,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "LoadBalancingForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\LoadBalancingForm.cs",
               "RelativeDocumentMoniker": "Forms\\LoadBalancingForm.cs",
@@ -652,20 +664,7 @@
               "RelativeToolTip": "Forms\\LoadBalancingForm.cs",
               "ViewState": "AgIAACgBAAAAAAAAAAAswEoBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:46:11.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ColdStorageForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs",
-              "RelativeDocumentMoniker": "Forms\\ColdStorageForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\DSA-Final-project3840\\SmartSupplyChainSystem\\SmartSupplyChainSystem\\Forms\\ColdStorageForm.cs",
-              "RelativeToolTip": "Forms\\ColdStorageForm.cs",
-              "ViewState": "AgIAADoBAAAAAAAAAAAswFwBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T07:28:32.645Z"
+              "WhenOpened": "2025-12-19T07:46:11.321Z"
             }
           ]
         }
